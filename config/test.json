@@ -1,4 +1,4 @@
 {
     "jwtPrivateKey": "1234",
-    "db": "mongodb://localhost/RentFlix_tests"
+    "db": "mongodb://localhost/Rentflix_tests"
 }
